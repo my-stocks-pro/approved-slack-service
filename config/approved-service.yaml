@@ -1,0 +1,5 @@
+token:
+channel: shutterstock
+host: 127.0.0.1
+hostprod: approved-slack-service
+port: 8006
